@@ -1,1 +1,14 @@
 Address Book for Jolly
+
+As a user I want to keep together the name, number and email address of a person so that I am able to know to whom the number and email belongs
+
+As a user I want to have my contacts’ data to be saved so that I don’t have to remember phone numbers
+
+As a user I want to be able to find the phone number of a contact so that I can call the contact without having to remember the number
+
+As a user I want to be able to find the email id of a contact so that I can send an email to the contact without having to remember the email id
+
+As a user I want to be able to see a list of all my contacts so that I can browse through the list and find somebody to call
+
+As a user I don’t want duplicate entries in my address book so that I can avoid the confusion between multiple contacts
+
